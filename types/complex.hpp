@@ -2,7 +2,7 @@
 #include <elementarytypes.hpp>
 
 namespace P{
-	using namespace P_Types;
+	using namespace E_Types;
 	using imaginary = P::Float;
 	
 	class Complex{
