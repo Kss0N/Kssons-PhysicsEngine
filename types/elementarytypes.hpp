@@ -1,5 +1,7 @@
 #pragma once
-namespace P_Types {
+
+//Elementary Types
+namespace E_Types {
  
   using Int8    = signed char;      //8  bit signed integer.
   using uInt8   = unsigned char;    //8  bit unsigned integer.
