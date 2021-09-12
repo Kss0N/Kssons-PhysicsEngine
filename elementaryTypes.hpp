@@ -10,4 +10,6 @@ namespace E_Types {
 	using uInt32	= unsigned int;			//32 bit unsigned integer.
 	using Int64		= signed long int;		//64 bit signed integer. 
 	using uInt64	= unsigned long int;	//64 bit unsigned integer.
+	
+	using Float = float;
 }
