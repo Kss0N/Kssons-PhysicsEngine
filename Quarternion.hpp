@@ -8,9 +8,9 @@ namespace P{
   class Quarternion : private Complex {
     jmaginary j;
     kmaginary k;
-    public:
-      Quarternion(P::Float real, P::imaginary i, P::jmaginary j, P::kmaginary k) : r(real), i(i), j(j), k(k) {};
-      Quarternion() : Quarternion(0,0,0,0) {};
+  public:
+    Quarternion(const P::Float real, const P::imaginary i, const P::jmaginary j, const P::kmaginary k) : r(real), i(i), j(j), k(k) {};
+    Quarternion() : Quarternion(0,0,0,0) {};
     
   };
 };
