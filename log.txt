@@ -1,0 +1,4 @@
+Dates are small endian (dd/mm/yy)
+
+281021 Remember to check 32 vs 64 bit compatibility...
+
